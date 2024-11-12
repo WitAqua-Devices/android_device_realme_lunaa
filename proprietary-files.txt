@@ -99,10 +99,10 @@ odm/etc/lvimfs_params/LVIMFS_Parameter_ID9_MIC_Voice.txt
 odm/etc/bt/msnv11.bin
 
 # Camera - from OnePlus 11 5G (CPH2449_14.0.0.401(EX01))
-odm/lib64/libarcsoft_dualcam_bokeh_api.so|956a646a768776c99e526705ed334a57bea408db
-odm/lib64/libarcsoft_dualcam_refocus_left.so|7ff371e45b7c20e354690a36ae3ee7357a1572f0
-odm/lib64/libarcsoft_dualcam_refocus_preview.so|ca8db3898bfca38592708f9c57cf60d97ebda117
-odm/lib64/libarcsoft_dualcam_refocus_uw.so|afd6c8dd14878d317342949476807e6c17e0cd2e
+odm/lib64/libarcsoft_dualcam_bokeh_api.so|f7b4287c97d7223770b0ac9b3c453d70c65dfdc6
+odm/lib64/libarcsoft_dualcam_refocus_left.so|1d19dc89a1696e3f8ef765ddf20fae25554eb600
+odm/lib64/libarcsoft_dualcam_refocus_preview.so|87bb3986038bc0b32d55f7ef0d8dc8ca25cec0e4
+odm/lib64/libarcsoft_dualcam_refocus_uw.so|7f6001f85f697e6db740a8dc818a9d2ab2ad450a
 
 # Camera
 odm/etc/camera/aicolor/duallut_background.bmp
@@ -869,7 +869,7 @@ vendor/lib64/libtriplecam_optical_zoom_control.so
 vendor/lib64/libtriplecam_video_optical_zoom.so
 vendor/lib64/vendor.oplus.hardware.cammidasservice@1.0.so
 vendor/lib64/vendor.oplus.hardware.osense.client-V1-ndk_platform.so
-vendor/lib64/vendor.qti.hardware.camera.postproc@1.0-service-impl.so|436cd1f351daaee8d8068c790005e814c6e4cdb6|74cb9bfeeb96df0b707654d662042133ffb23c1a
+vendor/lib64/vendor.qti.hardware.camera.postproc@1.0-service-impl.so|63275ec1fa675dd76d24587b98b4cf8a9f39de22
 
 # Camera firmware
 vendor/firmware/CAMERA_ICP.elf
